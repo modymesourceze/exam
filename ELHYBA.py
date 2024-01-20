@@ -1,3 +1,4 @@
+from mody import Mody
 import telebot
 import requests
 import json
