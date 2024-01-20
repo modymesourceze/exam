@@ -1,4 +1,186 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c%1E8Yfv0lcJ7|{i+R9EfF9Q9u}EM6dJ7>eV~`QD9&5`I5=hQ?m~O$qFf-fJBMdbpgC!YIrApfDZdsd+*K%ncKw{S@QpHkgt0LD{YL&|V=&{D3r%kHJCVw`+#w(Mg{3Dffx~GQ*8j!1`t=fbsIDPxxb5Eah?mhRO?{@ziq4=4y*C!iDf_R^x2#O36Ez*^2A;qhvMFUq&km%C3Xi0+7w&*Bbi=NU`2Fgg8C^KcDtd#Aqj4cM**x@AR{aVZ#f+jlL^IK^1Z8FParL7&s^Es%zHge1^b5V{<#BEt>9`snN(!+U)7<1)%<STkOsDevGi<5E#bx|vT=2I(y7Epyi-5~G9`SRr6B+)~b7X1#3$4f~;&-O&<s9@Q%yJ~yYzCAm)?GemxhGUGM_O{Tym9c2KpANB%FSxzj-|l0}&xaYY&=z4U{K0UHIv)%9*+4iHtq9R<ucecwBjvte-~!#d@pR>e?f#wRry@Jvh{WomJ6?R_RL5(<%KCjFmOfl}%C~LXhF)!1Wm)fbf4HlH^+h7R6}|vUuiRd-qhg0A@OpbVL|1O#U9qQPyQjUoQmUx(?&x&_cQD}h;iD@%qTx`loeq^Bs@qD3_J8lCZ58`Uje@Q*9AyPdeK-`NMIC$d4xcYS4id_b`B;CuV0gvvrz4>CsVL2qztRSl_S%4*g+lpBa7?d5;wV4r3$?|3ZM2||vOb0d$C*IqE?<a>`pG#HQHv8Xqrr(7CpzYj1ks_HU)M*n`dqs~Wjc_oJjsclz%*tpiaTwb{0Z@aL7prfHWm4rILX@OyUr~H5w%gexaI;8HBox;s-p~eWj<wHIZg6aG%=2u<R|rM6}&2efk8E9y`8nUPqzfOjmlGS>zClRQw{~UVF_+0<x+4Pm*CE)3KZO?xVEEkK37~9*T+q9L)>^fJ9Z?&7UkrwR_Q@d?znbr#ci$3-$N|!Z8>cF%u8szk}70#%gD^^kVmQ){>O@P7FptERf{Y#|5I2}95>Ilq;%Es-Zkwk8;Mp|R{A1=3YHGiZH%w0BFwZ^wuaf>qRKX!#Q^W3yIN`HWh{CF)JwI!=8_o1AeIG#)F>GJ4DDmXjF9J}x&om<6qX^l{T<pcN(yEs-0kfSP;C43DyaGGd!Kmt;q)c`PWlQz%>S)OZ+W0v&~^FPcIc7k_XUHkK7Xf|^0B_@{A{muKlHkr?&n7(?npZwoGw+0{FomDVI#o6KS;ml;cup|c=)^g&#+PKqxD5Qr&r5eKIVVH-vahKp7eVl_HO#3#MBv$PP-LyLGs_tC>ew$X8Id!{vhE=U*_-dKL;7Z9)1M+gN|3QGzi@M&*7<}Uc;aS${Da&u#;FP@qqQv#6RFafzF`xrSy=BDPrwd`Z91okeY8ox4(w#sC0V^pL$Dl=_ly{et70Npdc6sbj(xjsilMMJ*~cMt7QHiv|%{c8}86^DD)TN(A*I%m!2XDyuy#d7}*#)672DI`IydFB!*Ko{cid_;2l+(_uCJC)T?JJy68$+iM25%7-N7l^Wk6KkAq$OI7-LD-+)y3w`4y2;dorK_zF5ia^5{u4$2qNvno#!Rl5a>Uj)^&`h$ONfqkC<+vW5?sY5WIXTn`xoV<c2KnW&>{$7lZvQa?`Q(Z7M!(QsG3$ua|_ZV+|yP#v~cUVFH-R=<0Fc>|8`*0{22+>FAp4PCBp^k~R&#kSCv1~X5GmWAIEyNN&2|dMz1uaBIsZ}s`(a|XGQRc&x_m~tzw)%D&=6m+e)R`3~7+Xbg+vUOzxv*0%?2-$+1#3eXHTS_b8Wc43jZrIT?V0%r8mf&kL!C%4tfH;3j3kIDXW@i%ebTvp!nrBw+>|&xS+M&3n(x<e8xH*Po%<bJ<J&1;JNI^g3ou+X&M|$Q=T9FO{MmmIg!@&^S0YUuoiaLq`0D4z;_GKd)+E>NzF+(>nA~@QYofV8EZG#Bbgr0imL;8K<8P##dlP3S?FAF|ElK+puJl#z)Y+8%T;jB%?xjafDf>yNa=0fPrAbFAS9Xe{J5r9$S!@kl)4Z-PKe~{zHziK<`n-X2{pYT2zP|Uyp^-!5hf?~QNxey`%Mgau^<>6IoPfMDlSdfxrwN1MEctalQBX9Izcrb^^>Kbh;_Rf^K4IRNG;icKz4UPNZ#Mp>?Vq+L>zY#L(}@$j-Z|jy_g*`Z(ihDL){x{mk`J&My(m;;xIjL^m3LPDfj=?-&=Ht_K&q!XesYw6DAD2K7e!tVvmfX;rkbFytCjK{U~1uZ8;%;Tto;O20~hRpsogB;Mp^nn^TOE;MPhcrjIr9>{-K-CmD|@y1)o~pqoK58y4=16Sxkp{K380$*tc?fUq_w_C(&V_U#phxtL?@M^j6!C^>K2{a9gLMmD;|mDtBfFmhHz~b^)&&m%R>po1TH!SIMQP@Va@~>!7#g8F+n-TzU$xYeldB$Kqb6tYbC>PFdXZd6Zq@dEFA+4$7(E)-S>B0>q?K;FQI=^C?onZCrx8fHEt%5vQol7&V;oho3oWSQ62YV&*J3;?Ctb1HD%~gE)IZE<Ht@*_XYJ$od(0-6NNjUI)Znc$`7lIE`A1u<#Dxu|Ys%A|$K>tjeHDF@*05a5W2C0?xsERivtd=^pU+;0eP}1&AvP*>1vf?*gg>Ofv}3c~FLfS&Un%128T@b-|KF8Bk_mb`T7j#uU#|a*ig5?)pI}0zp|Zb<{aW9i<LAG^UDUucQYUJpG9M1)0_1mgvgMz>ppUw*k7l2OU20pn=duIvoIreU~4RBz}sxF9%`A0YD<|Lnax*DrAcKi!POQ-JodQBAR?rM9HI-qVz0(spO5JEDIh0EC97(0&G}R8w8}#Cw&p|v*?MOX;8d`6XT}XI0CxKC3KaNPaF(Mm)y{Ujw1@~7S&Xt<;)zK1^WjOS2GTrBsj?#j76pZ$x0*`LJa1)45nQSW&sQ?Q8B+_GNDL-+@qdq#bJ#_hM$X0VYq!))OrCo$C}ljGy51xZC*aW5tW=cSFm_QgVIY~f)3A`M4Zo*A;F`0W-F3%AcBjg0<2e#DLfir5Q+g@gLq>$B3}dEuVU!7K$N8!ZwPq2P>Of~kyAmM5myjF3-C@10m-H4;Zig6GB%NQ%t5T%iDVa&-AMKz*^8tKNE8?29HbW^qEH|`!7CjEc>TcutVhR)ELt4WiWuK$9q8%rxrPvZ(&n15l_YH?k8N89Nd?5NdDM_{yg8`jP3EimA^jlr=hjJ+b;7hZX<B=O8V-IGoG96wEZI9zQk^WRen|Z~_*rnG;jLuDTNy$_kz1yA?*Z6re&K6EW3KwzK$vY4rjn$o<OVw&|0sU1{tHvplsWHe@lf$K`g8N@=cUJisUt^odK@PgSLFQX<~7en5d%ejCu1Xa?#kqesu;|>zqZfS<lq;keM(LKy`X5KpgdVnexFPgR1caaT`MPCFD6|ta$6g@Gk=nDc?XS(x?1k_rj+Y6)a4gSrxslK8Lqu6l^>eLcbIFQ*SC&4aVF(z9yIbM=T+N~?b_+<Z8y3{y2rayrk9tr^4H<d!eHY$QhADEeqkESJWFPrgvI`Ry$i!!OHLg-o*U=aRmK^;%RldN22HA`4mIW!d2InjG7iGBRy?#(Kdkv5a^b_8K9VB)G?<!EI(&&l=|9j0$N)JDFsUScaSfYG@z`7%*I`lN)XE7RBvDzJeL6FM61DVCP9`ZMW)zf3q-K#?kOJ7srGjdSRxTMeDEL%TLVVLZmNx^l;)ad_72S=BWHgr=E|B&W&9CiPrNXI?8^-L)*CrdEp>)bIlVCQ3?02-yL^oOLJpRp5`Nhn)e5G62>Wc>aczAt6I@zwHVLv+rPY^e%7!Cq%jJbW!6Z1e7rU9@6-^14!9{y8ohmAP9R|40lMliP1K8j|dqA<b0(9u|s#Y8h4@Y7KS?T|9edL-fwhF)UU0TEyM;D(J!PCq0WmuDr5qjst1CX}p;grh9;hFHWm#e$xSbw#2J@5#0(9irqtnK_L0xDk(<M2jWK>ye0xn?UghI13zvbw_1oqximd)_y9bJxHSX|Cqr2legwytr@CG9ONx$67{?-|622nigEY2f!ou>c}{cgGn}<Kad6U6c(re+@A{i#n}4bMd&>jM!(ET78dHwLiN=h^sBa{BSMmF6zrXee>uwY!U1cNtlCIt3zND+_{>r4QcF^#xSE!<-spxv)hiiVk=EHSAUN=&5-^ZDXzA)APcSb|P<5YOKvW9;)9s1@82Ht1pI$gb;_?3NYeT{Z`Sz2C}7Fd>;?-JQKl2#Lp#5rI^PT+@gxj*LQ5^{-Q4x3$S<QJm1AhEwBB1V8QH`DJT*v;nbqJUuuJ}|H2L&cDN6Um~>4RaF7DI_g~YG@bA<Xvq4S7L$C<~AIAL_KQC5X4FHH4R+WA3?g}C{o)o%^y>sGv|oqlw&!zpE|Y?*7F}@E`TY4cxp5A6@?VesFDZbcMy+=<RczH*3URtSIguYwx@^%gSGad`=NnrXyH6(Irllv`quxE`25eOiqAOt+~QLAE#guy#-c%_iWq%naXI@NwLf%R+MZin=BdTysC{l+KI7OrB9ouO|C4_t7Kp9uEa%?DS-<ng6i`xTtB1_iLj20IwZ3YB%yv1tW`6&_qKkQ(SRy>u%47@+J|wL`N>>U-{93X#%!;6uIgLa_sQ4u!vl)p5VULBW9>MVH(Z=SwSC|s4GM<E<b<k5puMYVzSw0@d(HB<czI_A`&-COP@ibS$rD6sv?u<ud9R*_~91I3RZOj3z!Xqa6+o7&76${b_m`>3HVCp{r$!JNE{F1PLNjSbFtp7q3^Covf&s$a`j8l0B_=0u(%Kf~<%@;KAD>m~*TfTA_tz`*g#!1+mSN9L?PndYaibUH$xIcWY{jp(PLOVt3CP;UZbYJhj9^gp#V{*$^npNZl@`;wvlxD<Yrkc>`C&<-F_*=h&BUe8rcYdX*CCO@J+LaNDzdxw4k&Wc<Ul8e<xiqteAaw)Qe(U8t(aiq^HTz@H'))))
-# channel : https://t.me/Source_Ze
+import telebot
+import requests
+import json
+from telebot import types
+Owner = '6581896306'
+User_Ch = 'Source_Ze'
+headers = {
+     'Host': 'us-central1-chat-for-chatgpt.cloudfunctions.net',
+     'Connection': 'keep-alive',
+     'If-None-Match': 'W/"1c3-Up2QpuBs2+QUjJl/C9nteIBUa00"',
+     'Accept': '*/*',
+     'User-Agent': 'com.tappz.aichat/1.2.2 iPhone/15.6.1 hw/iPhone8_2',
+     'Content-Type': 'application/json',
+     'Accept-Language': 'en-GB,en;q=0.9'}
+Your_Bot = Mody.ELHYBA
+bot = telebot.TeleBot(Your_Bot)
+
+@bot.message_handler(commands=['start'])
+def start(message):
+    Id_Member = message.from_user.id
+    Check_Member = requests.get(f"https://api.telegram.org/bot{Your_Bot}/getchatmember?chat_id=@{User_Ch}&user_id={Id_Member}").text
+    
+    if Id_Member == Owner or "member" in Check_Member or "creator" in Check_Member or "administrator" in Check_Member:
+    	keyboard = types.InlineKeyboardMarkup(row_width=2)
+    	button1= types.InlineKeyboardButton("↯ الرياضيات ↯", callback_data="math")
+    	button2= types.InlineKeyboardButton("↯ فلسفة ↯", callback_data="phel")
+    	button3 = types.InlineKeyboardButton("↯ الإجابة عن أي سؤال ↯", callback_data="ask")
+    	button4= types.InlineKeyboardButton("↯ إختبر نفسك ↯", callback_data="kss")
+    	button5= types.InlineKeyboardButton("↯ اللغات ↯", callback_data="lang")
+    	keyboard.add(button1, button2, button5,button3,button4)
+    	bot.reply_to(message,'''❀ مرحبا بك في بوت حل الاساله
+
+❀ البوت يساعدك على الإجابة على جميع الأسئلة التي تريدها
+
+❀ المبرمج : @elhyba
+
+❀ إختر ما تريد من الخيارات التالية''', reply_markup=keyboard)
+
+    else:
+    	For_Channel =types.InlineKeyboardMarkup()
+    	CH= types.InlineKeyboardButton('قناة البوت ❕',url="t.me/"+str(User_Ch))
+    	For_Channel.add(CH)
+    	bot.reply_to(message,
+'''🚸| عذرا عزيزي
+🔰| عليك الاشتراك بقناة البوت لتتمكن من استخدامه''',reply_markup=For_Channel)
+    	
+
+@bot.callback_query_handler(func=lambda call: True)
+def handle_button_click(call):
+    if call.data == "kss":
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text='''❀ إختبر نفسك عبر الإجابة عن الأسئلة العشوائية
+
+❀ أرسل موضوع السؤال''',reply_markup=B)
+        bot.register_next_step_handler(call.message,kss)
+        
+    elif call.data == "ask":
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text='''❀ الإجابة الفورية عن جميع الأسئلة
+
+❀ أرسل السؤال لتتم الإجابة عليه''',reply_markup=B)
+        bot.register_next_step_handler(call.message,all)
+        
+    elif call.data == "lang":
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text='''❀ ترجمة و إنشاء وضعيات حسب الطلب
+
+❀ إذا كنت تريد ترجمة جملة أرسل "ترجمة (الكلمة/الجملة) الى (اللغة التي تريدها↯"
+
+❀ إذا كنت تريد مني كتابة وضعية لك أكتب "أكتب لي وضعية عن (الموضوع) باللغة (اللغة التي تريد↯"
+
+❀ أرسل ما تريد هنا''',reply_markup=B)
+        bot.register_next_step_handler(call.message,lang)
+     
+    elif call.data == 'Back':
+        
+        keyboard = types.InlineKeyboardMarkup(row_width=2)
+        button1= types.InlineKeyboardButton("↯ الرياضيات ↯", callback_data="math")
+        button2= types.InlineKeyboardButton("↯ فلسفة ↯", callback_data="phel")
+        button3 = types.InlineKeyboardButton("↯ الإجابة عن أي سؤال ↯", callback_data="ask")
+        button4= types.InlineKeyboardButton("↯ إختبر نفسك ↯", callback_data="kss")
+        button5= types.InlineKeyboardButton("↯ اللغات ↯", callback_data="lang")
+        keyboard.add(button1, button2, button5,button3,button4)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.id,text='''❀ مرحبا بك في بوت حل الاساله
+
+❀ البوت يساعدك على الإجابة على جميع الأسئلة التي تريدها
+
+❀ المبرمج : @elhyba
+
+❀ إختر ما تريد من الخيارات التالية''', reply_markup=keyboard)
+     
+    elif call.data == "phel":
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text='''❀ المادة : فلسفة
+        
+❀ أرسل موضوع المقالة التي تريدها''',reply_markup=B)
+        bot.register_next_step_handler(call.message,phel)
+    elif call.data == "math":
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text='''❀ المادة : رياضيات
+
+❀ أرسل العملية التي تريد حلها''',reply_markup=B)
+        bot.register_next_step_handler(call.message,math)
+        
+def math(message):
+    text = message.text
+    url = 'https://us-central1-chat-for-chatgpt.cloudfunctions.net/basicUserRequestBeta'
+    data = {'data': {'message': f'أريد حل {text} مع شرح طريقة الحل'}}
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+    try:
+        result = response.json()["result"]["choices"][0]["text"]
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.send_message(message.chat.id, result,reply_markup=B)
+    except:
+        bot.send_message(message.chat.id, "لم أفهم السؤال")
+
+
+def phel(message):
+    text = message.text
+    url = 'https://us-central1-chat-for-chatgpt.cloudfunctions.net/basicUserRequestBeta'
+    data = {'data': {'message': f'أكتب لي مقالا فلسفيا عن {text} مع الاستدلال بأقوال الفلاسفة'}}
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+    try:
+        result = response.json()["result"]["choices"][0]["text"]
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.send_message(message.chat.id, result,reply_markup=B)
+    except:
+        bot.send_message(message.chat.id, "لم أفهم السؤال")
+        
+def kss(message):
+    text = message.text
+    url = 'https://us-central1-chat-for-chatgpt.cloudfunctions.net/basicUserRequestBeta'
+    data = {'data': {'message': f'إطرح علي سؤال عن {text} دون إجابتي'}}
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+    try:
+        result = response.json()["result"]["choices"][0]["text"]
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.send_message(message.chat.id, result,reply_markup=B)
+    except:
+        bot.send_message(message.chat.id, "لم أفهم السؤال")
+        
+def all(message):
+    text = message.text
+    url = 'https://us-central1-chat-for-chatgpt.cloudfunctions.net/basicUserRequestBeta'
+    data = {'data': {'message':text}}
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+    try:
+        result = response.json()["result"]["choices"][0]["text"]
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.send_message(message.chat.id, result,reply_markup=B)
+    except:
+        bot.send_message(message.chat.id, "لم أفهم السؤال")
+        
+def lang(message):
+    text = message.text
+    url = 'https://us-central1-chat-for-chatgpt.cloudfunctions.net/basicUserRequestBeta'
+    data = {'data': {'message':text}}
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+    try:
+        result = response.json()["result"]["choices"][0]["text"]
+        B = types.InlineKeyboardMarkup()
+        Back = types.InlineKeyboardButton("↯ رجوع ↯", callback_data="Back")
+        B.add(Back)
+        bot.send_message(message.chat.id, result,reply_markup=B)
+    except:
+        bot.send_message(message.chat.id, "لم أفهم السؤال")
+        
+bot.polling()
